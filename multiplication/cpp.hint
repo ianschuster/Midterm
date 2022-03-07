@@ -1,0 +1,2 @@
+#define MULTIPLICATION_API __declspec(dllexport)
+#define MULTIPLICATION_API __declspec(dllimport)

@@ -1,0 +1,2 @@
+#define SUBTRACTING_API __declspec(dllexport)
+#define SUBTRACTING_API __declspec(dllimport)
